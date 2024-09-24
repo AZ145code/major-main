@@ -5,6 +5,7 @@
 *.html
 *.txt
 !data.txt
+!puzzle.txt
 *.js
 env
 session
